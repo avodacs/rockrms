@@ -1,0 +1,16 @@
+{
+  "name": "rockrms",
+  "version": "1.0.0",
+  "description": "An API Client for Rock RMS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Erickson G. Pece <erick@avodacs.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "debug": "^4.1.1"
+  }
+}
